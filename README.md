@@ -5,3 +5,7 @@ https://www.digikey.in/en/products/detail/texas-instruments/AWR1843BOOST/1044530
 https://www.novelic.com/industrial-radar-sensor-solutions/ 
 https://www.mistralsolutions.com/wp-content/uploads/2019/03/60GHz-mmWave-Industrial-AoP-Radar-on-Module_Product-Brief.pdf 
 https://www.mistralsolutions.com/product-engineering-services/expertise/mmwave-radar-modules/ 
+
+
+
+https://www.novelic.com/industrial-radar-sensor-solutions/
